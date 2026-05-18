@@ -1,4 +1,4 @@
-# 🏋️‍♂️ BMI Analyzer
+# 🏋️‍♂️ BMI ANALYZER 
 
 This is a simple Python project built during my 1st semester in AI & Data Science at Green University of Bangladesh.
 
