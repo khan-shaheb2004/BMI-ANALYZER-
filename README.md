@@ -48,5 +48,5 @@ This BMI Calculator is a robust command-line tool designed to:
 
 1. **Clone the repository** (or save the script):
 ```bash
-git clone https://github.com/yourusername/bmi-calculator.git
-cd bmi-calculator
+git clone https://github.com/rari-alam-khan/bmi-analyzer.git
+cd bmi-analyzer
